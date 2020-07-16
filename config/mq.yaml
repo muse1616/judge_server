@@ -1,0 +1,10 @@
+# RabbitMQ 配置文件
+
+
+# 代码提交队列
+code:
+  url: "192.168.88.130"
+  id: "admin"
+  pwd: "admin"
+  vhost: "/code_submit"
+  port: "5672"
